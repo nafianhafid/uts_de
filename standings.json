@@ -1,0 +1,243 @@
+[
+  {
+    "team": "Chicago Bulls",
+    "klasemen": 1
+    "GP": 4,
+    "W": 4,
+    "L": 0,
+    "Win%": 1.000
+  },
+  {
+    "team": "Golden State Warriors",
+    "klasemen": 1
+    "GP": 3,
+    "W": 3,
+    "L": 0,
+    "Win%": 1.000
+  },
+  {
+    "team": "Utah Jazz",
+    "klasemen": 1
+    "GP": 2,
+    "W": 2,
+    "L": 0,
+    "Win%": 1.000
+  },
+  {
+    "team": "Charlotte Hornets",
+    "klasemen": 4
+    "GP": 4,
+    "W": 3,
+    "L": 1,
+    "Win%": 0.750
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "klasemen": 4
+    "GP": 4,
+    "W": 3,
+    "L": 1,
+    "Win%": 0.750
+  },
+  {
+    "team": "Atlanta Hawks",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "Denver Nuggets",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "Miami Heat",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "New York Knicks",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "Philadeplhia 76ers",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "Washington Wizards",
+    "klasemen": 6
+    "GP": 3,
+    "W": 2,
+    "L": 1,
+    "Win%": 0.667
+  },
+  {
+    "team": "Boston Celtics",
+    "klasemen": 14
+    "GP": 4,
+    "W": 2,
+    "L": 2,
+    "Win%": 0.500
+  },
+  {
+    "team": "Brooklyn Nets",
+    "klasemen": 14
+    "GP": 4,
+    "W": 2,
+    "L": 2,
+    "Win%": 0.500
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "klasemen": 14
+    "GP": 4,
+    "W": 2,
+    "L": 2,
+    "Win%": 0.500
+  },
+  {
+    "team": "Dallas Mavericks",
+    "klasemen": 14
+    "GP": 2,
+    "W": 1,
+    "L": 1,
+    "Win%": 0.500
+  },
+  {
+    "team": "Houston Rockets",
+    "klasemen": 18
+    "GP": 3,
+    "W": 1,
+    "L": 2,
+    "Win%": 0.333
+  },
+  {
+    "team": "LA Clippers",
+    "klasemen": 18
+    "GP": 3,
+    "W": 1,
+    "L": 2,
+    "Win%": 0.333
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "klasemen": 18
+    "GP": 3,
+    "W": 1,
+    "L": 2,
+    "Win%": 0.333
+  },
+  {
+    "team": "Phoenix Suns",
+    "klasemen": 18
+    "GP": 3,
+    "W": 1,
+    "L": 2,
+    "Win%": 0.333
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "klasemen": 18
+    "GP": 3,
+    "W": 1,
+    "L": 2,
+    "Win%": 0.333
+  },
+  {
+    "team": "Sacramento Kings",
+    "klasemen": 18
+    "GP": 3,
+    "W": 1,
+    "L": 2,
+    "Win%": 0.333
+  },
+  {
+    "team": "San Antonio Spurs",
+    "klasemen": 18
+    "GP": 3,
+    "W": 1,
+    "L": 2,
+    "Win%": 0.333
+  },
+  {
+    "team": "Indiana Pacers",
+    "klasemen": 25
+    "GP": 4,
+    "W": 1,
+    "L": 3,
+    "Win%": 0.250
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "klasemen": 25
+    "GP": 4,
+    "W": 1,
+    "L": 3,
+    "Win%": 0.250
+  },
+  {
+    "team": "Orlando Magic",
+    "klasemen": 25
+    "GP": 4,
+    "W": 1,
+    "L": 3,
+    "Win%": 0.250
+  },
+  {
+    "team": "Toronto Raptors",
+    "klasemen": 25
+    "GP": 4,
+    "W": 1,
+    "L": 3,
+    "Win%": 0.250
+  },
+  {
+    "team": "Detroit Pistons",
+    "klasemen": 29
+    "GP": 3,
+    "W": 0,
+    "L": 3,
+    "Win%": 0
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "klasemen": 29
+    "GP": 3,
+    "W": 0,
+    "L": 3,
+    "Win%": 0
+  }
+]
+  
