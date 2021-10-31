@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Knicks",
+    "location": "New York",
+    "logoUrl": "Knicks_New_York.gif",
+    "score": 418.65
+  },
+  {
+    "name": "Heat",
+    "location": "Miami",
+    "logoUrl": "Heat_Miami.gif",
+    "score": 527.6
+  },
+  {
+    "name": "Wizards",
+    "location": "Washington",
+    "logoUrl": "Wizards_Washington.gif",
+    "score": 328.8333333333333
+  },
+  {
+    "name": "Bulls",
+    "location": "Chicago",
+    "logoUrl": "Bulls_Chicago.gif",
+    "score": 444.05555555555554
+  },
+  {
+    "name": "Hornets",
+    "location": "New Orleans",
+    "score": 513.75,
+    "logoUrl": "legngwiheii4eld1u0agakxhc.gif"
+  },
+  {
+    "name": "76ers",
+    "location": "Philadelphia",
+    "logoUrl": "76ers_Philadelphia.gif",
+    "score": 500.875
+  },
+  {
+    "name": "Raptors",
+    "location": "Toronto",
+    "logoUrl": "Raptors_Toronto.gif",
+    "score": 568.9333333333333
+  },
+  {
+    "name": "Bucks",
+    "location": "Milwaukee",
+    "logoUrl": "Bucks_Milwaukee.gif",
+    "score": 421.5263157894737
+  },
+  {
+    "name": "Hawks",
+    "location": "St. Louis",
+    "score": 595.5714285714286,
+    "logoUrl": "lbr7pmgzcio7uqdwkwxch8l30.gif"
+  },
+  {
+    "name": "Nets",
+    "location": "New Jersey",
+    "score": 445.5882352941176,
+    "logoUrl": "hvkhsaffs9x9zre7gku4vmnte.gif"
+  },
+  {
+    "name": "Cavaliers",
+    "location": "Cleveland",
+    "logoUrl": "Cavaliers_Cleveland.gif",
+    "score": 465.1666666666667
+  },
+  {
+    "name": "Celtics",
+    "location": "Boston",
+    "logoUrl": "Celtics_Boston.gif",
+    "score": 428.2105263157895
+  },
+  {
+    "name": "Pistons",
+    "location": "Detroit",
+    "logoUrl": "Pistons_Detroit.gif",
+    "score": 550.6428571428571
+  },
+  {
+    "name": "Magic",
+    "location": "Orlando",
+    "logoUrl": "Magic_Orlando.gif",
+    "score": 702.1666666666666
+  },
+  {
+    "name": "Pacers",
+    "location": "Indiana",
+    "logoUrl": "Pacers_Indiana.gif",
+    "score": 550.8666666666667
+  }
+]
